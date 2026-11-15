@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0058-length-of-last-word) |
 ## Binary Search
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
