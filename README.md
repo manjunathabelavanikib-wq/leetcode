@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Binary Search
 |  |
 | ------- |
