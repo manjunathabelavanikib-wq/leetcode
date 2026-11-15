@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
