@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Array
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0016-3sum-closest) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
