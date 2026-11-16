@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
