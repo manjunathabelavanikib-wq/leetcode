@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -85,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0268-missing-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -98,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/manjunathabelavanikib-wq/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
